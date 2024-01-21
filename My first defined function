@@ -1,0 +1,5 @@
+def shakib(x,y):
+	z = round(float(x+ y),2)
+	return z
+my_number = shakib(5.65556,8.77678)
+print(my_number)
